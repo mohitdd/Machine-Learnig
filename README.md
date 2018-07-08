@@ -1,2 +1,3 @@
 # Machine-Learnig
-Contains Machine learning algorithms
+
+*Implementation of Gradient Decent algorithm.
